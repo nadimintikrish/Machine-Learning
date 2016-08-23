@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1455639769 source:c:\krishna\workarea\areadev\project\linemerge\main.cpp
+	<iostream>
+	<vector>
+	<iterator>
+	<sstream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<set>
+	<cmath>
+	<boost/tokenizer.hpp>
+	<boost/foreach.hpp>
+	<omp.h>
+
+1455660292 source:c:\krishna\workarea\areadev\project\mlproj2\main.cpp
+	<iostream>
+	<vector>
+	<iterator>
+	<sstream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<set>
+	<cmath>
+	<boost/tokenizer.hpp>
+	<boost/foreach.hpp>
+	<omp.h>
+
